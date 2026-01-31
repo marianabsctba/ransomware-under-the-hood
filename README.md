@@ -56,7 +56,7 @@ Ou seja:
 
 ## 🧨 Agora o que importa: como um arquivo é encriptado
 
-### 🔹 Passo 1 — Uma chave AES por arquivo
+### 🔹 Passo 1 - Uma chave AES por arquivo
 Cada arquivo recebe:
 - **Uma chave AES‑128 aleatória**
 - Gerada via API criptográfica do Windows
@@ -79,7 +79,7 @@ CBC em português:
 
 ---
 
-### 🔹 Passo 3 — RSA protegendo a chave AES
+### 🔹 Passo 3 - RSA protegendo a chave AES
 A chave AES do arquivo:
 - É encriptada com **RSA‑2048**
 - Usando a chave pública do atacante
@@ -91,7 +91,7 @@ Sem a **RSA Private Key correta**:
 
 ---
 
-### 🔹 Passo 4 — Arquivo final
+### 🔹 Passo 4 - Arquivo final
 O arquivo encriptado contém:
 - Marcador (`WANACRY!`)
 - Metadados
