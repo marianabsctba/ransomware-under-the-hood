@@ -58,7 +58,7 @@ Ou seja:
 
 ## 🧨 Como um arquivo é encriptado (sem mistério)
 
-### 🔹 Passo 1 — Uma chave AES por arquivo
+### 🔹 Passo 1 - Uma chave AES por arquivo
 Para **cada arquivo**, o ransomware gera:
 - **Uma chave AES-128 aleatória**
 - Usando APIs criptográficas do sistema
@@ -67,7 +67,7 @@ Para **cada arquivo**, o ransomware gera:
 
 ---
 
-### 🔹 Passo 2 — AES-128-CBC no conteúdo
+### 🔹 Passo 2 - AES-128-CBC no conteúdo
 O conteúdo vira ciphertext usando:
 - AES  
 - Modo CBC  
@@ -80,7 +80,7 @@ CBC em português:
 
 ---
 
-### 🔹 Passo 3 — RSA protegendo a chave AES
+### 🔹 Passo 3 - RSA protegendo a chave AES
 A chave AES:
 - É encriptada com **RSA-2048**
 - Usando a chave pública do atacante
