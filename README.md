@@ -152,7 +152,7 @@ encrypted_key = rsa_public.encrypt(
 
 ---
 
-## 🛡️ Moral da história (pra defesa)
+## 🛡️ Pra defesa
 
 - Não é vírus simples
 - Não é senha fraca
