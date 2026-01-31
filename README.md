@@ -91,7 +91,7 @@ Sem a chave privada correta:
 
 ---
 
-### 🔹 Passo 4 — Arquivo final
+### 🔹 Passo 4 - Arquivo final
 O arquivo resultante contém:
 - Marcador (`WANACRY!`)  
 - Metadados  
