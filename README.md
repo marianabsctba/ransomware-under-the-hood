@@ -66,7 +66,7 @@ Por quê isso é cruel?
 
 ---
 
-### 🔹 Passo 2 — AES‑128‑CBC no conteúdo
+### 🔹 Passo 2 - AES‑128‑CBC no conteúdo
 O arquivo vira ciphertext usando:
 - AES
 - Modo CBC
