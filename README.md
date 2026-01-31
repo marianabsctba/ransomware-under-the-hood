@@ -163,6 +163,7 @@ Defesa real envolve:
 - Detecção comportamental
 - EDR antes da fase de crypto
 - Controle de escrita e execução
+- Plataforma neutralizadora de Ransomware
 
 ---
 
