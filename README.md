@@ -198,7 +198,6 @@ Defesa real envolve:
 - https://cloud.google.com/blog/topics/threat-intelligence/wannacry-malware-profile  
 - https://www.secureworks.com/research/wcry-ransomware-analysis  
 - https://serhack.me/articles/technical-analysis-ransomware-wannacry/  
-- https://www.malwarebytes.com/blog/news/2017/05/the-wannacry-ransomware-attack  
 
 ---
 
